@@ -15,8 +15,10 @@ Feature 2 Personalize
 
 Estimate: 2hr
 
-Start:
+Start: 11am
 
-Finish:
+Finish: 1:30
 
-Actual:
+Actual: 2 1/2 hours
+
+Note: I hit a wall in my head and it's mostly incompleate.
